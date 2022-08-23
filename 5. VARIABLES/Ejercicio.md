@@ -49,9 +49,9 @@ Realiza un algoritmo para un programa que solicite al usuario su nombre y le sal
 
          1.- inicio 
 	 2.- declara nombre(str),saludo(str)
-	 3.- asigna	 "Ingresa tu Nombre por favor"
-	 4.- resultado  saludo="Hola" 
-	 5.- mostrar    nombre, saludo
+	 3.- mostrar	"Ingresa tu Nombre por favor"
+	 4.- asignar 	nombre
+	 5.- mostrar   ("Hola",nombre)
 	 6.- fin
 
 
@@ -76,7 +76,7 @@ Realiza un algoritmo para  un programa que solicite al usuario ingresar la canti
       TU ALGORITMO AQUI  
 
 	  1.- inicio 
-	  2.- declara	Km(float ),  litros(float)
+	  2.- declara	Km(float),  litros(float)
 	  3.- mostrar	"Ingresa la Cantidad de Kilometros Recorridos"
 	  4.- asignar	km
 	  5.- mostrar	"Ingresa La Cantidad  de Litros de Combustible durante tu Recorrido"
@@ -87,6 +87,20 @@ Realiza un algoritmo para  un programa que solicite al usuario ingresar la canti
 
 
 Con PSINT
+
+
+Algoritmo sin_titulo
+	kmRecorridos <- 0
+	litros <- 0
+	consumo <- 20.8
+	resultado <- 0
+	
+	Escribir "Ingresa la Cantidad de Kilometros Recorridos"
+	Leer kmRecorridos
+	resultado <- kmRecorridos * consumo
+	Escribir "El consumo por kilómetro es ",resultado
+FinAlgoritmo
+
 
 
 
