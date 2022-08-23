@@ -47,7 +47,27 @@ Realiza un algoritmo que calcule el promedio de un alumno el cual tiene cuatro c
 
 Realiza un algoritmo para un programa que solicite al usuario su nombre y le salude usando ese nombre
 
-      1.- inicio 
+       1.- inicio 
+	 2.- declara nombre(str),saludo(str)
+	 3.- asigna	 "Ingresa tu Nombre por favor"
+	 4.- resultado  saludo="Hola" 
+	 5.- mostrar    nombre, saludo
+	 6.- fin
+
+
+Con PSINT
+
+
+Algoritmo sin_titulo
+	nombre<-" "
+	saludo<-" "
+	Escribir "Ingresa tu Nombre por favor"
+	Leer nombre
+	Escribir "hola ", nombre
+	
+FinAlgoritmo
+
+
 
 ## EJERCICIO 3
 
@@ -55,4 +75,44 @@ Realiza un algoritmo para  un programa que solicite al usuario ingresar la canti
 
       TU ALGORITMO AQUI  
 
-Ahora llevalos a PSINT
+1.- inicio 
+	  2.- declara	Km(float ),  litros(float)
+	  3.- mostrar	"Ingresa la Cantidad de Kilometros Recorridos"
+	  4.- asignar	km
+	  5.- mostrar	"Ingresa La Cantidad  de Litros de Combustible durante tu Recorrido"
+	  6.- resultado   km/litros * 20.8
+	  7.- mostrar 	"El consumo por kilómetro es",resultado
+	  8.- fin
+
+
+
+Con PSINT
+
+
+
+Algoritmo sin_titulo
+	km <- 0
+	litros <- 0
+	consumo <- 20.8
+	resultado <- 0
+	
+	Escribir "Ingresa la Cantidad de Kilometros Recorridos"
+	Leer km
+	Escribir "Ingresa La Cantidad  de Litros de Combustible durante tu Recorrido"
+	Leer litros
+	resultado <- (km/litros) * consumo
+	Escribir "El consumo por kilómetro es ",resultado
+	
+FinAlgoritmo
+
+
+
+
+
+
+
+
+
+
+
+
