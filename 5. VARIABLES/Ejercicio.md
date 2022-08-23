@@ -47,7 +47,7 @@ Realiza un algoritmo que calcule el promedio de un alumno el cual tiene cuatro c
 
 Realiza un algoritmo para un programa que solicite al usuario su nombre y le salude usando ese nombre
 
-       1.- inicio 
+         1.- inicio 
 	 2.- declara nombre(str),saludo(str)
 	 3.- asigna	 "Ingresa tu Nombre por favor"
 	 4.- resultado  saludo="Hola" 
@@ -75,7 +75,7 @@ Realiza un algoritmo para  un programa que solicite al usuario ingresar la canti
 
       TU ALGORITMO AQUI  
 
-1.- inicio 
+	  1.- inicio 
 	  2.- declara	Km(float ),  litros(float)
 	  3.- mostrar	"Ingresa la Cantidad de Kilometros Recorridos"
 	  4.- asignar	km
