@@ -1,7 +1,7 @@
 ## RETO
 1. Realizar un algoritmo y diagrama de flujo de un programa que solicite un número y lo multiplique por 9, mostrando su resultado.
 
- 1.- Inicio
+   1.- Inicio
  2.- Declarar numero(INT), resultado=0
  3.- Mostrar "Ingrese número"
  4.- Asignar numero
