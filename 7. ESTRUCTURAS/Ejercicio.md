@@ -10,11 +10,10 @@
 		6.-mostrar ("Ingresa el segundo Numero")
 		7.-asignar	numero2
 		8.-SI numero1=<numero2 ENTONCES
-		9.-	mostrar "El numero mayor es ",numero2
-		10.-SINO numero2=>numero1 
-		11.-mostrar "El numero mayor es ",numero1
-		12.-fin
-
+			mostrar "El numero mayor es ",numero2
+		    SINO numero2=>numero1 
+		    mostrar "El numero mayor es ",numero1
+		9.-fin
  
   
   
