@@ -1,20 +1,20 @@
 1. Realiza un algoritmo y diagrama de flujo de un programa que compare dos números e indique cual es mayor.
   
   TU ALGORITMO Y DIAGRAMA AQUI
-  
-1.-inicio
-2.-declarar numero1(int), numero2(int)
-3.-mostrar ("Programa que compara e indica cual es el mayor")
-4.-mostrar ("Ingresa el Pimer Numero")
-5.-asignar	numero1
-6.-mostrar ("Ingresa el segundo Numero")
-7.-asignar	numero2
-8.-SI numero1=<numero2 ENTONCES
-9.-	mostrar "El numero mayor es ",numero2
-10.-SINO numero2=>numero1 
-11.-mostrar "El numero mayor es ",numero1
-12.-fin
-   
+  1.-inicio
+	2.-declarar numero1(int), numero2(int)
+	3.-mostrar ("Programa que compara e indica cual es el mayor")
+	4.-mostrar ("Ingresa el Pimer Numero")
+	5.-asignar	numero1
+	6.-mostrar ("Ingresa el segundo Numero")
+	7.-asignar	numero2
+	8.-SI numero1=<numero2 ENTONCES
+	9.-	mostrar "El numero mayor es ",numero2
+	10.-SINO numero2=>numero1 
+	11.-mostrar "El numero mayor es ",numero1
+	12.-fin
+
+ 
   
   
   
